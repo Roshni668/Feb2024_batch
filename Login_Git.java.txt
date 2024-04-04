@@ -1,0 +1,10 @@
+public void logintestcase1()
+{
+system.out.println(" 1st test case");
+}
+
+public void invalidlogintestcase2()
+{
+system.out.println(" 2nd test case");
+
+}
